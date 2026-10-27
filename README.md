@@ -15,7 +15,7 @@ Hi, I’m Mohamed Youssef
 <div align="center">
 
 <a href="https://linkedin.com/in/youssuf" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20youssuf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a style="text-decoration:none;font-size:40px;text-shadow:-1px 1px 5px #494949;color:#0077b5;" href="#link of your profile#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+
 
 <!---
 abgdya/abgdya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
