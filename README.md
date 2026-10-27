@@ -1,4 +1,8 @@
+<h3 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 👋 Hi, I’m Mohamed Youssef
+</h3>
+
 👀 I’m interested in Computer Science and Engineering
 🌱 I’m currently pursuing an MSc in Financial Engineering to deepen data science and machine learning expertise
 💞️ I’m looking to collaborate in the finance and business domains
